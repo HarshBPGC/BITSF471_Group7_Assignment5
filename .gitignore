@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+cache/
+*.npz
+!data/*.npz
+!data/**/*.npz
+.venv/
+venv/
+logs/
+*.log
+data/musique_ans_v1.0_dev.jsonl
+out/
+bundle_*.tar.gz
